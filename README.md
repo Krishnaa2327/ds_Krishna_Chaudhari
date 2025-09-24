@@ -27,7 +27,7 @@ The analysis uncovered a critical and potentially costly disconnect in trader be
 
 The primary notebook contains all the code, methodology, and visualizations for this project.
 
-* **Analysis Notebook:** `[Google_Colab](https://colab.research.google.com/drive/1_uwQeWCDY3Jq1dxyyt5KvZQiL5qfULPn?usp=sharing)`
+* **Analysis Notebook:** [Google_Colab](https://colab.research.google.com/drive/1_uwQeWCDY3Jq1dxyyt5KvZQiL5qfULPn?usp=sharing)
 
 ---
 
